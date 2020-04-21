@@ -20,6 +20,8 @@
 ## Prerequisites
 - Python 3.x
 - Tensorflow 1.15.0
+- Librosa 0.6.3
+- etc.
 
 ## References and Resources
 - https://github.com/Rayhane-mamah/Tacotron-2
