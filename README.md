@@ -17,6 +17,4 @@
   * [Acoustic feature extraction](https://github.com/ByeonghakKim/ispl-speech/tree/master/Acoustic%20feature%20extraction)
   * [Speech enhancement](https://github.com/ByeonghakKim/ispl-speech/tree/master/Speech%20enhancement)
   * [Voice activity detection](https://github.com/YoungloLee/ispl-speech/tree/master/Voice%20activity%20detection)
-  * [Speech synthesis](#speechsynthesis)
-    * [Training times](#training-times)
-    * [Evaluation results](#evaluation-results)
+  
